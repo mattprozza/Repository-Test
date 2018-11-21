@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description" content="Matt Test">
   <meta name="author" content="Matt <developer@matt.com.au>">
-  <title>MATT - Work Experience</title>
+  <title>Matt - Work Experience</title>
   <link href="//fonts.googleapis.com/css?family=Source+Sans+Pro:300,700" rel="stylesheet">
   <link href="//use.fontawesome.com/releases/v5.0.13/css/all.css" rel="stylesheet">
   <link href="assets/bower_components/animate.css/animate.min.css" rel="stylesheet">
@@ -39,7 +39,7 @@
             <img src="https://dummyimage.com/100x100/ff9800/ffffff&text=MS" class="rounded-circle" />
             <p class="mt-2">
               <strong>Matt</strong><br>
-              <small>matt@email.com.au</small><br>
+              <small>matt@prosser.cc</small><br>
               <span class="badge badge-primary">Trainee</span>
             </p>
           </div>
