@@ -1,0 +1,23 @@
+{
+  "name": "md",
+  "file": {
+    "src": [
+      "../*.php"
+    ]
+  },
+  "css": {
+    "src": [
+      "css/src/**/*.scss"
+    ],
+    "dest": "css/dist"
+  },
+  "js": {
+    "src": [
+      "js/src/**/*.js"
+    ],
+    "dest": "js/dist"
+  },
+  "browsersync": {
+    "proxy": "local.matt"
+  }
+}

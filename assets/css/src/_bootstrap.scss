@@ -1,0 +1,58 @@
+$white: #ffffff !default;
+$gray-100: #f8f8f8 !default;
+$gray-200: #e8e8e8 !default;
+$gray-300: #d8d8d8 !default;
+$gray-400: #c8c8c8 !default;
+$gray-500: #b8b8b8 !default;
+$gray-600: #666666 !default;
+$gray-700: #444444 !default;
+$gray-800: #222222 !default;
+$gray-900: #111111 !default;
+$black: #000000 !default;
+
+$blue: #2196f3 !default;
+$indigo: #6610f2 !default;
+$purple: #6f42c1 !default;
+$pink: #e83e8c !default;
+$red: #e51c23 !default;
+$orange: #fd7e14 !default;
+$yellow: #ff9800 !default;
+$green: #4caf50 !default;
+$teal: #20c997 !default;
+$cyan: #9c27b0 !default;
+
+$primary: $blue !default;
+$secondary: $gray-500 !default;
+$success: $green !default;
+$info: $indigo !default;
+$warning: $yellow !default;
+$danger: $red !default;
+$light: $gray-100 !default;
+$dark: $gray-800 !default;
+
+$navbar-dark-color: rgba($white, .9) !default;
+$navbar-dark-hover-color: $white !default;
+
+$body-color: $gray-700 !default;
+
+$font-family-sans-serif: "Source Sans Pro", sans-serif !default;
+$font-weight-normal: 300 !default;
+$headings-font-family: "Source Sans Pro", sans-serif !default;
+$headings-font-weight: 600 !default;
+
+$input-group-addon-color: $light !default;
+$input-group-addon-bg: $primary !default;
+$input-group-addon-border-color: $primary !default;
+
+$form-feedback-valid-color: $success !default;
+
+$alert-bg-level: 0 !default;
+$alert-border-level: 0 !default;
+
+$badge-font-size: 85% !default;
+$badge-font-weight: 300 !default;
+
+$table-active-bg: rgba($black, .03) !default;
+
+$h1-font-size: 1.5rem !default;
+$h2-font-size: 1.25rem !default;

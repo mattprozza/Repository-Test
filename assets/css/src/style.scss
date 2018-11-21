@@ -1,0 +1,16 @@
+/* Bootstrap */
+@import 'bootstrap';
+@import '../../bower_components/bootstrap/scss/bootstrap';
+
+/* Mobile */
+@import 'mobile';
+
+/* Tablet */
+@media (min-width: 768px) {
+  @import 'tablet';
+}
+
+/* Desktop */
+@media (min-width: 992px) {
+  @import 'desktop';
+}
